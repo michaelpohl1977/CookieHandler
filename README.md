@@ -1,5 +1,4 @@
 # PHP-CookieHandler 2.0.0
---- 
 
 PHP-CookieHandler is a simple helper class for easier access to PHP's cookie functionality.
 
@@ -12,19 +11,19 @@ Visit https://www.simatex.de/php-cookiehandler for detailed information.
 ## Example
 
     // Include class to project
-	require_once 'CookieHandler/CookieHandler.php';
-	
-	// Create CookieHandler object
-	$Cookie = new CookieHandler("Supercookie")
-	
-	// Set a cookie with a 7 days lifetime
-	$Cookie->WriteTextContent("Cookie content", 7);
-	
-	// Read cookie content from current session
-	$CookieContent = $Cookie->ReadTextContent();
-	
-	// Delete cookie
-	$Cookie->DeleteCookie();
+    require_once 'CookieHandler/CookieHandler.php';
+    
+    // Create CookieHandler object
+    $Cookie = new CookieHandler("Supercookie")
+    
+    // Set a cookie with a 7 days lifetime
+    $Cookie->WriteTextContent("Cookie content", 7);
+    
+    // Read cookie content from current session
+    $CookieContent = $Cookie->ReadTextContent();
+    
+    // Delete cookie
+    $Cookie->DeleteCookie();
 
 ## History
 
