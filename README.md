@@ -1,12 +1,12 @@
-# PHP-CookieHandler 2.0.0
+# PHPCookieHandler 2.0.0
 
-PHP-CookieHandler is a simple helper class for easier access to PHP's cookie functionality.
+PHPCookieHandler is a simple helper class for easier access to PHP's cookie functionality.
 
 The class provides easy to use write and read methods, helps with calculations of cookie-lifetime and generates processible outputs/results.
 
 ## Documentation
 
-Visit https://www.simatex.de/php-cookiehandler for detailed information.
+Visit https://www.simatex.de/wiki/phpcookiehandler for detailed information.
 
 ## Example
 
