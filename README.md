@@ -6,7 +6,7 @@ The class provides easy to use write and read methods, helps with calculations o
 
 ## Documentation
 
-Visit https://www.simatex.de/cookiehandler for detailed information.
+Visit https://www.simatex.de/documentation/cookiehandler for detailed information.
 
 ## Example
 
